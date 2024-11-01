@@ -1,10 +1,10 @@
-# Movie Streaming Server
+# Media Streaming Server
 
-This project is a movie streaming server built with Python and Flask. It allows users to select a local directory of movies in MP4 format and serves a searchable list of available movies through a web interface. Users can select a movie to watch and stream it directly in their browser, with seamless streaming enabled by partial content delivery.
+This project is a media streaming server built with Python and Flask. It allows users to select a local directory of media files in MP4 format and serves a searchable list of available movies/series through a web interface. Users can select a media file to watch and stream it directly in their browser, with seamless streaming enabled by partial content delivery.
 
 ## Features
 
-- **File Selection**: Choose a movie directory with a Tkinter file dialog at startup.
+- **File Selection**: Choose a movie directory with a Tkinter file dialogue at startup.
 - **Movie List Display**: Shows a list of all available MP4 movies in the selected directory.
 - **Search Functionality**: Users can search for a movie by title in real time.
 - **In-Browser Playback**: Selected movies are streamed directly in the browser with an embedded video player.
