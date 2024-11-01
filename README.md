@@ -1,4 +1,4 @@
-# Media Streaming Server
+# HomeStream: Local Media Streaming Server
 
 This project is a media streaming server built with Python and Flask. It allows users to select a local directory of media files in MP4 format and serves a searchable list of available movies/series through a web interface. Users can select a media file to watch and stream it directly in their browser, with seamless streaming enabled by partial content delivery.
 
